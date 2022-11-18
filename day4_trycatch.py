@@ -5,7 +5,7 @@ try:
     print(examNote)
 except ValueError:
     print("Deneme 123")
-except ZeroDivisionErrorr:
+except ZeroDivisionError:
     print("hiçbir sayı 0' a bölünemez")
 except:
     print("Yanlış girdi...")
